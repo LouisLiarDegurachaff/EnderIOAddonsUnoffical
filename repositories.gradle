@@ -1,0 +1,7 @@
+// Add any additional repositories for your dependencies here.
+
+repositories {
+        mavenCentral()
+        maven { url = "http://files.minecraftforge.net/maven" }
+        maven { url = "https://oss.sonatype.org/content/repositories/snapshots/" }
+    }

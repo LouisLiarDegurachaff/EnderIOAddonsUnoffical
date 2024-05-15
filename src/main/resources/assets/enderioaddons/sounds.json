@@ -1,0 +1,66 @@
+{
+  "machine.cobbleworks": {
+    "category": "block",
+    "sounds": [
+      "machine/cobbleworks/bubble"
+    ]
+  },
+  "machine.ihopper": {
+    "category": "block",
+	"sounds": [
+	  "machine/ihopper/clack"
+	]
+  },
+  "machine.tcom.in": {
+    "category": "block",
+    "sounds": [
+      "machine/tcom/in1",
+      "machine/tcom/in2",
+      "machine/tcom/in3",
+      "machine/tcom/in4"
+    ]
+  },
+  "machine.tcom.enchant": {
+    "category": "block",
+    "sounds": [
+      "machine/tcom/enchant1"
+    ]
+  },
+  "machine.tcom.enchant.fail": {
+    "category": "block",
+    "sounds": [
+      "machine/tcom/enchantfail1"
+    ]
+  },
+  "machine.tcom.fail": {
+    "category": "block",
+    "sounds": [
+      "machine/tcom/fail1"
+    ]
+  },
+  "machine.flag": {
+    "category": "block",
+    "sounds": [
+      "machine/flag/servo1",
+      "machine/flag/servo2"
+    ]
+  },
+  "machine.flag.fail": {
+    "category": "block",
+    "sounds": [
+      "machine/flag/fail1"
+    ]
+  },
+  "machine.magcharger": {
+    "category": "block",
+    "sounds": [
+      "machine/flag/charger1"
+    ]
+  },
+  "machine.magcharger.cont": {
+    "category": "block",
+    "sounds": [
+      "machine/flag/charger2"
+    ]
+  }
+}
