@@ -33,7 +33,7 @@ import loenwind.enderioaddons.timer.Ticker;
 public class EnderIOAddons implements InitAware {
 
     @Nonnull
-    public static final String MODID = "enderioaddons";
+    public static final String MODID = "EnderIOAddons";
     @SuppressWarnings("null")
     @Nonnull
     public static final String DOMAIN = MODID.toLowerCase(Locale.US);
